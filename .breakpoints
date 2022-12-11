@@ -1,0 +1,20 @@
+{
+  "files": {
+    "Adapters/WebAdapter.java": [
+      {
+        "id": "1d5e889d-764c-4c65-8ad7-338438b6a2e2",
+        "line": 20,
+        "version": 37,
+        "index": 374
+      }
+    ],
+    "templates/index.html": [
+      {
+        "id": "ba88b28c-8970-4dab-afdc-139f649f2f0f",
+        "line": 4,
+        "version": 26,
+        "index": 40
+      }
+    ]
+  }
+}

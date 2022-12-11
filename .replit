@@ -1,0 +1,1 @@
+run = "javac -classpath .:class:target/dependency/* -d class Main.java Controladores/*.java Modelo/*.java; java -classpath .:class:target/dependency/* Main" 
